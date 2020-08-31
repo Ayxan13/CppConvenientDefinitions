@@ -24,7 +24,7 @@ typedef STD uint16_t  u16;
 typedef STD int16_t   i16;
 typedef STD int8_t    i8;
 typedef STD uint8_t   u8;
-typedef     void      u0; /* Void is kind of an integer that doesn't exist */
+typedef     void      u0; /* void is kind of an integer that doesn't exist */
 
 /* Abstract integers */
 typedef STD intptr_t  isize; /* Signed size type for object size / array indexing */
