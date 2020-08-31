@@ -18,13 +18,13 @@ arch | `isize` | `usize`
 
 ## Floating-Point Types
 
-* `f32`: type aliase for `float`
-* `f64`: type aliase for `double`
+* `f32`: type alias for `float`
+* `f64`: type alias for `double`
 
 ## Additional
 
-* `wchar`: type aliase for `wchar_t`
-* `u0`: type aliase for `void`
+* `wchar`: type alias for `wchar_t`
+* `u0`: type alias for `void`
 * For the C language, includes `stdbool.h`
 
 # Macros
